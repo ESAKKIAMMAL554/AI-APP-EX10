@@ -1,6 +1,6 @@
 # ExpNo:10 Implementation of Classical Planning Algorithm
-# Name: Bala M
-# Register No:212224060036
+# Name:ESAKKIAMMAL P
+# Register No:212224060075
 # Algorithm or Steps Involved:
 <ol>
   <li>Define the initial state</li>
